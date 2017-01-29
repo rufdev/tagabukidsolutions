@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ITSecurityGard</title><link href="/" rel="alternate"></link><link href="/feeds/write-ups.atom.xml" rel="self"></link><id>/</id><updated>2016-12-08T14:37:00+08:00</updated><entry><title>XSS-Cross Site Scripting Vulnerability Via Search Bar</title><link href="/xss-cross-site-scripting-vulnerability-via-search-bar.html" rel="alternate"></link><published>2016-12-08T14:37:00+08:00</published><updated>2016-12-08T14:37:00+08:00</updated><author><name>Kent Bayron</name></author><id>tag:,2016-12-08:xss-cross-site-scripting-vulnerability-via-search-bar.html</id><summary type="html">&lt;p&gt;Hello Readers! 
+Today, I will tell you a story about the vuln i found on a online website, this website is a catalog for thier equipments and hardware tools available in thier store. so here is the scenario, i was browsing to their site , looking for some tools and eqiupment that i can use to assess my daily study, I was searching that time and when i hit enter there's something unusual result, the result is only backslash "/". So the first thing that comes up in my mind is this site is vulnerable to XSS.&lt;/p&gt;
+&lt;p&gt;Reproduction Steps
+&lt;img alt="Alt Text" src="/images/write.png" /&gt; &lt;/p&gt;
+&lt;p&gt;The Result page will trigger like this:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Alt Text" src="/images/xss.png" /&gt; &lt;/p&gt;
+&lt;p&gt;The image above contains the session cookies of the site and other cookies. I already reported this vulnerability to their Devs.&lt;/p&gt;
+&lt;p&gt;if you enjoy this give me a feedback as a comment or drop me an email at kntx501@gmail.com. if you are interested i might do a complete write up about this.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Alt Text" src="/images/gifs/raw3.gif" /&gt;&lt;/p&gt;</summary><category term="XSS"></category><category term="Security"></category></entry></feed>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ITSecurityGard</title><link href="/" rel="alternate"></link><link href="/feeds/bughunter.atom.xml" rel="self"></link><id>/</id><updated>2016-11-16T07:37:00+08:00</updated><entry><title>Clifford Trigo Bug Bounty Wannabe</title><link href="/clifford-trigo-bug-bounty-wannabe.html" rel="alternate"></link><published>2016-11-16T07:37:00+08:00</published><updated>2016-11-16T07:37:00+08:00</updated><author><name>Kent Bayron</name></author><id>tag:,2016-11-16:clifford-trigo-bug-bounty-wannabe.html</id><summary type="html">&lt;p&gt;A friend of mine, He is Clifford Trigo, He is a security researcher that focuses on web applications and services from Bohol, Philippines. Currently, He is listed in Hackerone’s top 10 list of hackers overall. In connection, He is also the top 1 in Square’s and Yelp’s (private) bug bounty programs.&lt;/p&gt;
+&lt;p&gt;"Security is what i love and bug bounties open the possibility of doing security work, in my case into web applications, without the possibility of getting jailed and also making the web more secure. one bug might take hours to find, but every single bug is thrilling to look for, in addition, bug bounty equals profit. Considering the exchange rate from bounties paid in USD to Philippine Peso" He added.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="hackerone.com/Thanks"&gt;hackerone.com/Thanks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="hackerone.com/Square (square.com)"&gt;hackerone.com/Square (square.com)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="hackerone.com/Yelp (yelp.com)"&gt;hackerone.com/Yelp (yelp.com)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="hackerone.com/BookFresh (bookfresh.com)"&gt;hackerone.com/BookFresh (bookfresh.com)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hackerone.com/Irccloud (irccloud.com)"&gt;https://hackerone.com/Irccloud (irccloud.com)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ph.linkedin.com/pub/clifford-trigo/a8/a57/73b"&gt;https://ph.linkedin.com/pub/clifford-trigo/a8/a57/73b&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Security"></category><category term="Web"></category><category term="Data-Breach"></category><category term="Bug Hunter"></category></entry></feed>
