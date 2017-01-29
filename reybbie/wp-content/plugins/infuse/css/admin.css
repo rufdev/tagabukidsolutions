@@ -1,0 +1,71 @@
+/* --------------------------------------------------------------
+1. PLUGIN SETTINGS PAGE
+-------------------------------------------------------------- */
+/* Metaboxes */
+.infuse-metabox { overflow:hidden; margin:20px 10px; }
+.infuse-metabox .name { float:left; width:150px; padding:5px 0px; font-family:Century Gothic, Verdana, Arial; font-weight:bold; }
+.infuse-metabox .field { margin-left:180px; max-width:340px; min-width:200px; }
+.infuse-metabox .desc { float:left; margin:6px 0px 0px 180px; clear:both; color:#666; font-size:11px; font-weight:normal; }
+.infuse-metabox-wide .field { max-width:none; }
+/* Aside metaboxes */
+#side-sortables .infuse-metabox .name { float:none; width:auto; }
+#side-sortables .infuse-metabox .desc { float:none; max-width:100%; min-width:0; margin-left:0; }
+#side-sortables .infuse-metabox .field { margin-left:0; }
+
+.infuse-metabox input[type=text] { width:95%; }
+.infuse-metabox label { display:block; margin:0 0 5px; }
+.infuse-metabox input[type=upload] { width:70%; }
+.infuse-metabox input.color { width:70px; }
+.infuse-metabox textarea { font-family:monospace; width:95%; height:100px; max-height:350px; min-height:100px; resize:vertical; }
+.infuse-metabox select { width:95%; }
+.infuse-metabox option:disabled { background:#ddd; font-weight:bold; padding:5px 0; }
+
+/* Columns in posts table */
+.column-infuse-location,
+.column-infuse-filters,
+.column-infuse-pages { width:150px; }
+
+
+/* Shortcode preview */
+.infuse-shortcode-preview { margin:15px 0; font-size:14px; }
+.infuse-shortcode-preview-content { font-family:monospace; padding:10px; margin:5px 0 0; font-size:14px; border:none; cursor:pointer; }
+
+
+/* Location */
+.infuse-input-location { padding:10px 20px; font-size:18px; margin:0 0 10px; width:400px; }
+.infuse-input-priority { padding:10px 20px; font-size:18px; margin:0 0 10px 20px; width:150px; }
+
+/* Tabs */
+.infuse-tabs { border:1px solid #ddd; overflow:hidden; }
+.infuse-tab-menu { float:left; width:280px; height:300px; overflow:auto; border-right:1px solid #ddd; -moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box; }
+.infuse-tab { padding:10px; border-bottom:1px solid #ddd; cursor:pointer; }
+.infuse-tab.infuse-tab-active { background:#07a; color:#fff; }
+.infuse-tab-title { font-weight:bold; font-size:12px; }
+.infuse-tab-description { font-size:10px; }
+.infuse-tab-image { display:block; float:left; width:32px; height:32px; border-radius:50px; margin:0 10px 0 0; }
+.infuse-tab-body { margin-left:280px; height:300px; overflow:auto; background:#f9f9f9; }
+.infuse-tab-group { display:none; }
+.infuse-tab-content { border-bottom:1px solid #ddd; padding:8px 10px; cursor:pointer; }
+.infuse-tab-content:hover { background:#eee; }
+.infuse-tab-content-title { font-weight:bold; font-size:14px; }
+.infuse-tab-content-description { font-size:12px; opacity:0.6; }
+.infuse-tab-active { display:block; }
+
+
+.infuse-appearance { overflow:hidden; margin:10px 0; }
+.infuse-appearance-content { box-sizing:border-box; padding:0; margin-left:430px; }
+.infuse-appearance-preview { float:left; width:400px; }
+.infuse-appearance-content:first-child { margin-left:0; }
+/* Margins */
+.infuse-appearance-margins { position:relative; background:#fff; border:1px dashed #ddd; border-radius:3px; padding:20px; }
+.infuse-appearance-paddings { position:relative; background:#eee; border:1px dashed #ddd; padding:20px; margin:40px 50px; min-height:100px; }
+.infuse-appearance-tag { position:absolute; font-size:11px; font-weight:bold; text-transform:uppercase; top:10px; left:10px; }
+.infuse-appearance-inner { background:#f5f5f5; border:1px dashed #ddd; margin:40px 50px; height:50px; }
+.infuse-appearance-input { position:absolute; width:50px; padding:8px 8px; box-sizing:border-box; }
+.infuse-appearance-input-top { top:10px; left:50%; margin-left:-25px; }
+.infuse-appearance-input-bottom { bottom:10px; left:50%; margin-left:-25px; }
+.infuse-appearance-input-left { left:10px; top:50%; margin-top:-20px; }
+.infuse-appearance-input-right { right:10px; top:50%; margin-top:-20px; }
+/* Fields */
+.infuse-appearance-field { margin:0 0 10px; }
+.infuse-appearance-field-title { margin:0 0 5px; }

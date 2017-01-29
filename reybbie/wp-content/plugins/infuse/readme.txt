@@ -1,0 +1,110 @@
+=== Infuse - Reusable Content Blocks ===
+Contributors: cpothemes
+Tags: content, module, modular, shortcode, widget, customize, page builder, builder, content block, block, woocommerce, genesis, cpothemes, bbpress, buddypress
+Requires at least: 4.1
+Tested up to: 4.4
+Stable tag: 1.2.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Infuse allows you to create reusable pieces of content that you can place anywhere in your site.
+
+== Description ==
+
+[Infuse](http://cpothemes.com/plugin/infuse) is a powerful tool for adding modular content into your site. This plugin lets you create multiple blocks of multimedia content, which you can then add onto specific parts of your WordPress website.
+
+For instance, You can use it to add a block of text at the end of every page, or an email subscription form on the header. Each content block makes use of the WordPress visual editor, and is compatible with any kind of media. you can even use shortcodes to create truly modular pages!
+
+The appearance of content blocks can also be customized. You can control the background color, borders, and evend paddings and margins for a more professional look.
+
+This plugin is meant to give you as much control over your website's content as possible, so that you can start thinking about creating great content instead of fighting with your theme.
+
+**Infuse works with any theme, but the plugin closely integrates with the layouts and hooks used in CPOThemes. To get the best results and maximum flexibility, make sure to try out our [free WordPress themes](http://www.cpothemes.com/themes).**
+
+= Main Highlights =
+* Create individual content blocks and place them anywhere
+* Blocks are compatible with shortcodes and embeds
+* Insert them without coding: choose one of many specific locations 
+* Insert them with shortcodes, widgets, or use PHP
+* Full control over the appearance of each content block
+
+= Supported Frameworks =
+Infuse allows you to tap into the action hooks of any available theme or plugin. The following are especially supported:
+* Standard WordPress hooks
+* CPOThemes
+* Genesis Framework
+* WooCommerce
+
+= Quick Usage =
+To insert a block onto the WordPress visual editor, use the following shortcode. Make sure to swap POSTID with the ID number of the post:
+**[infuse_block id="POSTID"]**
+
+To insert a block directly onto your template files, use the following PHP snippet. Make sure to swap POSTID with the ID number of the post, and remember to wrap your function call in PHP tags:
+**infuse_block(POSTID);**
+
+
+== Installation ==
+
+= Installing Through The WordPress Admin =
+
+1. Download the ZIP file
+2. In your WordPress admin area, go to Plugins > Add Plugin, and select Upload Plugin
+3. Upload the ZIP file and installation will commence
+4. Activate the plugin through the 'Plugins' menu in WordPress
+5. Make sure to check the **Settings > Infuse** page before using it right away!
+6. You are now ready to use Infuse
+
+= Installing Through FTP =
+
+1. Download the ZIP file and unpack it
+2. Upload the entire **infuse** folder to the **/wp-content/plugins/** directory
+3. Activate the plugin through the 'Plugins' menu in WordPress
+4. Make sure to check the **Settings > Infuse** page before using it right away!
+5. You are now ready to use Infuse
+
+== Frequently Asked Questions ==
+
+[Visit Our Support Forum At CPOThemes](http://www.cpothemes.com/forums/)
+
+= The plugin cannot be activated because it returned a fatal error. =
+This is due to the version of PHP in your server. Infuse requires PHP 5.3 or greater, in order to be able to offer all its awesome features.
+
+== Screenshots ==
+
+1. Quick Insert button for immediate markup
+2. Multiple button sizes and colors. Choose from a predefined palette or a custom HEX color
+3. Add message boxes, notifications, and highlighted boxes with custom background colors
+4. Create testimonials, team members, or inline features
+5. Add custom-colored pricing tables to your pages
+
+== Changelog ==
+
+= 1.2.1 =
+* Minor fixes
+
+= 1.2.0 =
+* The interface for tweaking the appearance of a content block has been massively improved.
+* Added more helpful texts for using the interface.
+* Minor fixes
+
+= 1.1.3 =
+* Minor fixes
+
+= 1.1.2 =
+* The admin table list of blocks now has a shortcode preview
+* Corrected display of blocks when using the shortcode option
+
+= 1.1.1 =
+* Minor fixes
+
+= 1.1.0 =
+* Features - Revamped the location interface. You can now select from a long list of hooks, organized by framework and plugin
+* Features - Added indvidual fields for managing the margin and padding of blocks
+
+= 1.0.1 =
+* Fixes - Added plugin icon
+* Fixes - Added hooks to each content block
+* Fixes - Added better interface to admin
+
+= 1.0.0 =
+* Plugin release, yay!

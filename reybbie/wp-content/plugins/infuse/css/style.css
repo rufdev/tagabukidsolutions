@@ -1,0 +1,39 @@
+/*
+Main Stylesheet
+Defines the styles that control block appearance
+*/
+
+
+/* CONTENT BLOCKS */
+.infuse-block { padding:10px 0; }
+.infuse-container { max-width:960px; width:auto; overflow:hidden; padding:0 20px; margin:0 auto; }
+.infuse-block .infuse-container > *:last-child { margin-bottom:0; }
+
+/* DARK CONTENT */
+body .infuse-dark { color:#eee; }
+body .infuse-dark h1, 
+body .infuse-dark h2, 
+body .infuse-dark h3, 
+body .infuse-dark h4, 
+body .infuse-dark h5, 
+body .infuse-dark h6, 
+body .infuse-dark a:link, 
+body .infuse-dark a:visited,
+body .infuse-dark a:hover { color:#fff; }
+
+/* Larger Screens */
+@media screen and (min-width: 1280px){
+	.infuse-container { max-width:1180px; }
+}
+
+
+/* Tablet Portrait */
+@media only screen and (max-width:800px){
+	.infuse-container { padding:0 20px; }
+}
+
+
+/* SMARTPHONE */
+@media only screen and (max-width:600px){
+	.infuse-container { padding:0 10px; }
+}
