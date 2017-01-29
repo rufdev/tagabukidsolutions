@@ -1,0 +1,59 @@
+ChangeLog
+=========
+
+
+Version 0.9*
+
+	i) Initial Release.
+	
+Version 0.91 (Pre Release)
+
+	i) 	Numerous Bug Fixes.
+
+Version 0.92 (Pre Release)
+
+	i) Fixed Issues related to placeholder images.
+	
+Version 0.93 (Pre Release)
+
+	i) More Bug Fixes.	
+	
+Version 0.94
+
+	i) Corrected Color Changes for Site Title/desc
+	ii) Added Help/Demo Links in Customizer
+	iii) Translation Related Fixes.
+	iv) Sanitization Related Fixes.
+	v) Removed Depreciated theme tags.
+	vi) Fixed Slider to 3 Slides only. Eliminated Resemblance to a Pseudo CPT.
+	vii) Removed Old Functions.	
+	viii) Added unminified modernizer.js
+	
+Version 0.95 (Pre Release)
+
+	i) Removed photoblogging tag.	
+	
+Version 1.0
+
+	i) First Public Release
+	
+Version 1.0.0.1
+
+	i) Added Header Parallax Effect	
+	ii) Fixed Font Issues.
+	iii) Updated Screenshot.
+	iv) Added Pro Details.
+	v) Other Minor Bug Fixes.
+	
+Version 1.0.0.2
+
+	i) Fixed Duplicate logo issues.	
+	ii) Fixed Logo, when Image has no transparent area.
+	
+Version 1.0.0.3
+
+	i) Fixed the Horrible Hover Effect for Site Navigation in Safari Browser.
+	
+Version 1.0.0.4
+
+	i) Fixed Issue with Featured posts, when there is also a sticky post in the category.		

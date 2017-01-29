@@ -1,0 +1,18 @@
+[21-Dec-2016 08:20:00 UTC] PHP Warning:  require(/home/tagabukid/public_html/projecttetisrael/wp-includes/update.php): failed to open stream: No such file or directory in /home/tagabukid/public_html/projecttetisrael/wp-settings.php on line 199
+[21-Dec-2016 08:20:00 UTC] PHP Fatal error:  require(): Failed opening required '/home/tagabukid/public_html/projecttetisrael/wp-includes/update.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tagabukid/public_html/projecttetisrael/wp-settings.php on line 199
+[21-Dec-2016 08:20:00 UTC] PHP Warning:  require(/home/tagabukid/public_html/projecttetisrael/wp-includes/option.php): failed to open stream: No such file or directory in /home/tagabukid/public_html/projecttetisrael/wp-includes/functions.php on line 8
+[21-Dec-2016 08:20:00 UTC] PHP Fatal error:  require(): Failed opening required '/home/tagabukid/public_html/projecttetisrael/wp-includes/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tagabukid/public_html/projecttetisrael/wp-includes/functions.php on line 8
+[21-Dec-2016 08:20:01 UTC] PHP Warning:  require(/home/tagabukid/public_html/projecttetisrael/wp-includes/class-walker-page.php): failed to open stream: No such file or directory in /home/tagabukid/public_html/projecttetisrael/wp-settings.php on line 168
+[21-Dec-2016 08:20:01 UTC] PHP Fatal error:  require(): Failed opening required '/home/tagabukid/public_html/projecttetisrael/wp-includes/class-walker-page.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tagabukid/public_html/projecttetisrael/wp-settings.php on line 168
+[21-Dec-2016 13:43:44 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/tagabukid/public_html/projecttetisrael/deleteme.wptro3.php on line 16
+[21-Dec-2016 13:43:44 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/tagabukid/public_html/projecttetisrael/deleteme.wpqszk.php on line 16
+[21-Dec-2016 13:43:44 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/tagabukid/public_html/projecttetisrael/deleteme.wpjgwa.php on line 16
+[21-Dec-2016 13:43:49 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/tagabukid/public_html/projecttetisrael/deleteme.wpimhy.php on line 16
+[21-Dec-2016 15:46:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=417635 in /home/tagabukid/public_html/projecttetisrael/wp-includes/wp-db.php on line 1879
+[22-Dec-2016 02:53:55 UTC] PHP Warning:  Error while sending QUERY packet. PID=223174 in /home/tagabukid/public_html/projecttetisrael/wp-includes/wp-db.php on line 1879
+[22-Dec-2016 03:31:09 UTC] PHP Warning:  Error while sending QUERY packet. PID=325668 in /home/tagabukid/public_html/projecttetisrael/wp-includes/wp-db.php on line 1879
+[22-Dec-2016 03:31:23 UTC] PHP Warning:  Error while sending QUERY packet. PID=329532 in /home/tagabukid/public_html/projecttetisrael/wp-includes/wp-db.php on line 1879
+[23-Dec-2016 07:54:16 UTC] PHP Fatal error:  Call to undefined function haxel_posted_on_date() in /home/tagabukid/public_html/projecttetisrael/wp-content/themes/haxel/framework/layouts/content-haxel.php on line 21
+[27-Jan-2017 13:22:54 UTC] PHP Warning:  Error while sending QUERY packet. PID=817655 in /home/tagabukid/public_html/projecttetisrael/wp-includes/wp-db.php on line 1879
+[27-Jan-2017 13:32:59 UTC] PHP Warning:  Error while sending QUERY packet. PID=889628 in /home/tagabukid/public_html/projecttetisrael/wp-includes/wp-db.php on line 1879
+[27-Jan-2017 13:35:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=893182 in /home/tagabukid/public_html/projecttetisrael/wp-includes/wp-db.php on line 1879
